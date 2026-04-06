@@ -1,0 +1,16 @@
+{
+  "services": [
+    {
+      "name": "backend",
+      "source": {
+        "root": "backend"
+      }
+    },
+    {
+      "name": "frontend",
+      "source": {
+        "root": "frontend"
+      }
+    }
+  ]
+}
