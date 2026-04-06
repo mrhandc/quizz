@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import PropTypes from 'prop-types';
 import socketService from '../services/socketService';
 
 function CreateRoom() {
@@ -62,7 +61,5 @@ function CreateRoom() {
     </div>
   );
 }
-
-CreateRoom.propTypes = {};
 
 export default CreateRoom;
